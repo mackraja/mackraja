@@ -7,4 +7,5 @@
 - ⚡ Fun fact about me, I like to Travel
 
 ![Monty GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mackraja&show_icons=true&locale=en&layout=compact&theme=radical)
+
 ![Monty GitHub stats](https://github-readme-stats.vercel.app/api?username=mackraja&show_icons=true&theme=radical)
