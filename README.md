@@ -5,3 +5,5 @@
 - 🌱 I mostly work on Javascript Projects, I love to create applications using React.
 - 📫 How to reach me on Skypee: mackraja1
 - ⚡ Fun fact about me, I like to Travel
+
+![Monty GitHub stats](https://github-readme-stats.vercel.app/api?username=mackraja&show_icons=true&theme=radical)
