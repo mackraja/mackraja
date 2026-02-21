@@ -1,13 +1,39 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Monty Khanna, Full Stack JavaScript Developer from India.
+# Monty Khanna 
+**Principal Full Stack Engineer | Senior System Analyst**  
+🇮🇳 India  
 
-[![Medium](https://img.shields.io/badge/-MontyKhanna-black?style=flat-square&labelColor=000000&logo=Medium)](https://montykhanna.medium.com/)
-[![Stack Overflow](https://img.shields.io/badge/stack-overflow-white?logo=stackoverflow)](https://stackoverflow.com/users/4156989/monty-khanna)
+---
 
-- 🔭 I’m currently working as a **Sr. System Analyst**
-- 🌱 I mostly work on Javascript Projects, I like to create applications using **React Js**, Angular, **Node Js**.
-- 📫 How to reach me on 
-    * Email: **mkmontykhanna@gmail.com**
-    * Skypee: **mackraja1**
-- ⚡ Fun fact about me, I like to Travel :rocket:
+[![Medium](https://img.shields.io/badge/-MontyKhanna-black?style=flat-square&labelColor=000000&logo=Medium)](https://montykhanna.medium.com/)  
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/4156989/monty-khanna)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mackraja&show_icons=true&locale=en&layout=compact&theme=radical)
+---
+
+## 👨‍💻 About Me
+Senior System Analyst and Full Stack Architect with a focus on **scalable frontend architectures, distributed backend systems, and cloud-native platforms**.  
+I design and lead production-grade JavaScript ecosystems optimized for performance, maintainability, and scale.
+
+---
+
+## 🚀 Core Expertise
+
+**Frontend:** React.js · Angular · Vue.js · TypeScript · ES6+ · Design Systems · State Management  
+**Backend:** Node.js · NestJS · Express · Microservices · REST / OpenAPI  
+**Databases & Caching:** PostgreSQL · MySQL · MongoDB · DynamoDB · Redis · Query Optimization  
+**Cloud & DevOps:** AWS · Azure DevOps · GCP · CI/CD · Jenkins · GitHub Actions  
+**Engineering Practices:** TDD · Code Reviews · Performance Profiling · Documentation Standards  
+
+---
+
+## 📫 Connect
+
+📧 [Email](mailto:mkmontykhanna@gmail.com)  
+✍️ [Medium Blog](https://montykhanna.medium.com/)  
+💬 Skype: mackraja1  
+
+---
+
+## ⚡ Interests
+Solving complex systems challenges and exploring new places ✈️  
+
+---
