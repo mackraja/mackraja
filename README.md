@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Monty Khanna
-**Principal Full Stack Engineer | Senior System Analyst**  
-🇮🇳 India  
+**Principal Full Stack Architect | Distributed Systems | Cloud-Native | AI/GenAI-Ready Platforms | 13+ Years**  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Platforms;+Distributed+Systems;+Cloud+Solutions" alt="Typing SVG"/>
 
@@ -11,7 +10,7 @@
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
 
-**Backend**
+**Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)  ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)  
 
 **Database & Cache**  
@@ -43,10 +42,3 @@
 ## ⚡ Interests
 
 Solving complex systems challenges | Exploring new places ✈️  
-
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mackraja&layout=compact&theme=radical)  
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=mackraja&show_icons=true&count_private=true&theme=radical)
