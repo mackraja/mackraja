@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Monty Khanna
-**Lead Full Stack Architect | AI Engineer | AWS Developer | React, Node, Python**  
+**Lead Full Stack Engineer | AI Engineer | AWS Developer | React, Node, Python**  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Platforms;+Distributed+Systems;+Cloud+Solutions" alt="Typing SVG"/>
 
